@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://dddoughna.netlify.app/sitemap.xml
